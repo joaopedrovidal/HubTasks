@@ -1,0 +1,6 @@
+@HubTasksAPI_HostAddress = http://localhost:5057
+
+GET {{HubTasksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HubTasksAPI/HubTasksAPI.csproj" />
+  <Project Path="HubTasksAplication/HubTasksAplication.csproj" />
+  <Project Path="HubTasksCommunication/HubTasksCommunication.csproj" />
+</Solution>
