@@ -1,4 +1,4 @@
-# #📜 HubTasks API
+##📜 HubTasks API
 
 API REST desenvolvida em **C# com ASP.NET Core** para gerenciamento de tarefas.
 
